@@ -1,0 +1,21 @@
+.navbar {
+  top: 0px;
+  left: 0px;
+  width: 1366px;
+  height: 60px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #E5E5E5;
+  opacity: 1;
+}
+
+.label {
+  top: 17px;
+  left: 30px;
+  width: 179px;
+  height: 27px;
+  text-align: center;
+  font: Light 20px/27px OpenSans;
+  letter-spacing: 0px;
+  color: #707070;
+  opacity: 1;
+}
